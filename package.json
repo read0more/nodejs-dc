@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-dc",
+  "version": "1.0.0",
+  "description": "nodejs-dc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "photo": "node photo/photo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/read0more/nodejs-dc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/read0more/nodejs-dc/issues"
+  },
+  "homepage": "https://github.com/read0more/nodejs-dc#readme"
+}
